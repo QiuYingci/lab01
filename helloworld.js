@@ -1,5 +1,5 @@
 {
-    "name": "helloworld",
+    "name": "helloworld.js",
     "description": "Express.js App",
     "author": "Raymond SO <rso@ouhk.edu.hk>",
     "version": "0.0.1",
